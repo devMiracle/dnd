@@ -1,0 +1,15 @@
+.dragClass{
+    width: 50px;
+    height: 50px;
+    background: #00ffff;   
+    border: 1px solid #000;
+    
+}
+
+.dropClass{
+    width: 400px;
+    height: 400px;
+    background: beige;
+    border: 1px solid #000;
+    
+}
